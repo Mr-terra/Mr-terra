@@ -6,28 +6,31 @@
 
 <p align="center">
   <a href="https://github.com/Mr-terra">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=600&lines=Embedded+Software+Engineer;C+%7C+C%2B%2B+%7C+ESP32+%7C+Arduino;Aerospace+%E2%80%A2+Defense+%E2%80%A2+Robotics;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81+Bonjour+!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=600&lines=Embedded+Software+Engineer;C+%7C+C%2B%2B+%7C+Rust+%7C+ESP32;Curious+by+default.;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81+Bonjour+!" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arthurlefran%C3%A7ois/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  <img src="https://img.shields.io/badge/Based%20in-Nantes%2C%20France-002654?style=for-the-badge" alt="Location"/>
+  <a href="https://www.linkedin.com/in/arthurlefran%C3%A7ois/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/Based%20in-Nantes%2C%20France-002654?style=for-the-badge" alt="Location"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🟢%20Open%20to%20embedded%20software%20roles-France%20%7C%20Japan-2EA44F?style=for-the-badge" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/🟢%20Open%20to%20embedded%20roles-Full--time%20%7C%20Freelance%20·%20France%20%7C%20Japan-2EA44F?style=for-the-badge" alt="Open to work"/>
 </p>
 
 ---
 
 ### 🛰️ About me
 
-- 🎓 **Epitech** graduate (Master-level, RNCP 7) — software engineering
-- 🔌 Focused on **embedded & real-time software**: microcontrollers, communication protocols, low-level C
-- 🚀 Drawn to **aerospace, defense, robotics and autonomous systems**
-- 🇯🇵 Lived **2 years in Osaka** — Japanese Business & Language diploma, **JLPT N3**
-- 🏢 Previously: work-study at **CGI France** (Java / J2EE, enterprise systems)
-- 🌐 Languages: French (native) · English (professional) · Japanese (N3)
+I want to build software for **big things that move**: aerospace, robotics, defense.
+What drives me is the mission behind the system, and understanding how it works all the way down to the hardware.
+
+- 🎓 **Epitech** — Software Architect, RNCP Level 7 (Master's), IoT & AR/VR track
+- ⚡ Background in **electrical engineering** (BTS Électrotechnique): oscilloscopes and multimeters don't scare me
+- 🏢 Industry experience on a **critical legacy system** (Java/Oracle): legacy code analysis, test plans, ~2,000 test cases, technical documentation
+- 🇯🇵 Lived **2 years in Osaka**, drawn by Japanese history and culture
+- 🌐 French (native) · English (**TOEIC 915/990**, 2026) · Japanese (**JLPT N3**)
 
 > 🇯🇵 **日本語で一言**
 > はじめまして、アーサーと申します。大阪に2年間住んでいました。
@@ -37,51 +40,51 @@
 
 ### 🧰 Tech stack
 
-**Embedded & low-level**
-
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Protocols:** UART · SPI · I²C · CAN · MQTT-TLS — *studying* MIL-STD-1553 · ARINC 429
-
-**Software & infrastructure**
-
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Currently learning:** C on microcontrollers
+**Boards:** ESP32 · M5Stack · Arduino Uno R3 · PiEEG  **Protocols:** UART · SPI · I²C · RFID
+**Bench:** oscilloscope · multimeter · logic analyzer · soldering iron
+**Practices:** hardware abstraction layers · state machines · host unit tests (googletest/gMock) · CI
+**Curious about:** embedded Linux · embedded Rust · secure boot & OTA
 
 ---
 
 ### 🔧 Featured projects
 
-| Project | Description | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| 🔥 [**GasGuard**](https://github.com/Mr-terra/GasGuard) | Gas detection system on microcontroller — sensor acquisition, thresholds and alerting written in C | `C` `Arduino` |
-| 🧠 **NeuroKinesis** 🔒 | Secured motor-control platform: encrypted commands (AES-256 / mbedTLS) over MQTT-TLS | `C/C++` `ESP32` `MQTT` |
-| ☸️ **KubeQuest** 🔒 | Production-grade Kubernetes on AWS: GitOps (ArgoCD), Ansible, Prometheus/Grafana/Loki, OPA Gatekeeper, SSO | `Kubernetes` `AWS` `Ansible` |
+| 📦 [**Conveyor System**](https://github.com/Mr-terra/Conveyor_belt) | Firmware for a parcel-sorting conveyor: RFID identification, motor control, servo diverter, ERP lookup. Hardware abstraction layer, state machine with latched critical errors and module watchdog, host unit tests with gMock, CI building the firmware | `C++` `ESP32` `M5Stack` `PlatformIO` |
+| 👁️ [**Rustvision**](https://github.com/Mr-terra/Rustvision) | Real-time motion detection & multi-object tracking from a webcam. Image processing written by hand (no OpenCV), typed state machine per track, zero-allocation main loop, 18 unit tests. Long-term goal: embedded Rust | `Rust` · *solo* |
+| 🏆 [**Project EVA**](https://github.com/Mr-terra/project-EVA) | **1st place** — 48-hour hackathon with BPCE. Turns a video into an explorable 3D scene (AI Gaussian Splatting) so insurance experts can pre-assess a claim before travelling | `Python` `Unity` `C#` `AI` · *team of 7* |
 
-<sub>🔒 Private repositories — details and demo available on request.</sub>
+🛠️ **Currently building:** [**GasGuard**](https://github.com/Mr-terra/GasGuard) — a gas detector on Arduino, written in C from the ground up (MQ sensors, logic analyzer on the bench).
+
+<sub>🔒 **Also built (private, team projects):** **NeuroKinesis** — brain-computer interface: EEG signals (PiEEG) classified by AI to open and close a robotic hand driven by an ESP32. I initiated and led the project (team of 8). · **KubeQuest** — production-grade Kubernetes on AWS with GitOps and observability.</sub>
+
+---
+
+### 🤝 How I work
+
+**Curious** · **Autonomous** · **Organized** · **I keep my commitments**
+
+> *Epitech graduation jury:* noted my curiosity and steady progression, and my ability to rally a team around the subjects I master.
 
 ---
 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-terra&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-terra&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-terra&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mr-terra&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 <!-- Snake animation: generated by .github/workflows/snake.yml -->
@@ -96,10 +99,6 @@
 
 ### ⛰️ Beyond the code
 
-🪕 Shamisen player for 4 years · 🏔️ Mountaineering · 🏍️ Riding my Yamaha MT-07 · 🎮 Solo game dev (*HeatPunk*, a survival city-builder in a world of extreme heat) · 🇯🇵 Japanese culture & language exchange
-
-> *"Systems that can't fail, in places you can't reach."*
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mr-terra&color=00B4D8&style=flat-square&label=Profile+views" alt="Profile views"/>
-</p>
+🪕 **Tsugaru shamisen** player for 4 years · 🏋️ Training 5× a week · 🏔️ Mountaineering · 🏍️ Yamaha MT-07 rider
+📖 Currently reading: *Xenos* by Dan Abnett (Warhammer 40k)
+📝 I post embedded-tech watch on [LinkedIn](https://www.linkedin.com/in/arthurlefran%C3%A7ois/) *(in French)*
