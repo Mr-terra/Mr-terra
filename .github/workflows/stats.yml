@@ -1,0 +1,39 @@
+# Refreshes the GitHub stat cards in the README every day and commits them to assets/.
+# If a provider is down, the previous committed SVG is kept, so the README never shows a broken image.
+
+name: Refresh stats cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # every day at 03:00 UTC
+  workflow_dispatch:       # allows a manual run from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch cards (keep previous file on failure)
+        run: |
+          fetch() {
+            local url="$1" out="$2"
+            if curl -fsSL --max-time 30 -o "$out.tmp" "$url" && grep -q "<svg" "$out.tmp"; then
+              mv "$out.tmp" "$out"
+            else
+              echo "::warning::Could not refresh $out, keeping the previous version"
+              rm -f "$out.tmp"
+            fi
+          }
+          fetch "https://github-readme-streak-stats.herokuapp.com/?user=Mr-terra&theme=tokyonight&hide_border=true" assets/stats-streak.svg
+          fetch "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mr-terra&theme=tokyonight" assets/stats-languages.svg
+
+      - name: Commit if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: :robot: refresh stats cards"
+          file_pattern: assets/*.svg
